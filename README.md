@@ -43,7 +43,7 @@ The **Financial Analysis & News Summarization System** is an all-in-one Python-b
   pip install -r requirements.txt
 3. **API Keys** (if not already cloned):
   Add your NewsAPI key and Hugging Face token in a .env file or directly into the script variables (as used in Colab)
-4.. **Run Script** (if not already cloned):
+4. **Run Script** (if not already cloned):
   Add your NewsAPI key and Hugging Face token in a .env file or directly into the script variables (as used in Colab)
 
 Contact
