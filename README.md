@@ -49,8 +49,8 @@ The **Financial Analysis & News Summarization System** is an all-in-one Python-b
 ##  Demo 
 >  Video: [https://youtu.be/Rylh41YR0Uk](https://drive.google.com/file/d/1LE1-mFYPCSFVon2gFHn4QLHFZCMvm5VF/view?usp=sharing)
 >
-> ##  Images:
->  Link: https://docs.google.com/presentation/d/1_0Z-VjxM9AucvIBG8hV6ONm4XnhSelMdumdtTGJEiyc/edit?usp=sharing 
+> 
+>  Images: https://docs.google.com/presentation/d/1_0Z-VjxM9AucvIBG8hV6ONm4XnhSelMdumdtTGJEiyc/edit?usp=sharing 
 
 Contact
 For questions or collaboration opportunities, feel free to reach out via GitHub or email!
