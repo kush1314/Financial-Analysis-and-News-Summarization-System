@@ -46,8 +46,8 @@ The **Financial Analysis & News Summarization System** is an all-in-one Python-b
 4. **Run Script** (if not already cloned):
   Add your NewsAPI key and Hugging Face token in a .env file or directly into the script variables (as used in Colab)
 
-##  Demo Video
->  Link: [https://youtu.be/Rylh41YR0Uk](https://drive.google.com/file/d/1LE1-mFYPCSFVon2gFHn4QLHFZCMvm5VF/view?usp=sharing)
+##  Demo 
+>  Video: [https://youtu.be/Rylh41YR0Uk](https://drive.google.com/file/d/1LE1-mFYPCSFVon2gFHn4QLHFZCMvm5VF/view?usp=sharing)
 >
 > ##  Images:
 >  Link: https://docs.google.com/presentation/d/1_0Z-VjxM9AucvIBG8hV6ONm4XnhSelMdumdtTGJEiyc/edit?usp=sharing 
